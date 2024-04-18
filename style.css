@@ -88,12 +88,3 @@ navigation a:hover::after {
     background: #fff;
     color: #162918;
 }
-.wrapper{
-    position: relative;
-    width: 300px; 
-    height: 100px; 
-    background: transparent;
-    border: 6px solid rgba(255, 255, 255, .5);
-    border radius: 20px;
-    backdrop-filter: blur(20px);
-}
